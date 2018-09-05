@@ -1,2 +1,4 @@
-# CCYD-66-Veeduria-ciudadana
-## nuevo
+# Veedo
+
+Aplicación para hacer vigilancia ciudadana en tiempo de ejecución del rublo publico
+
