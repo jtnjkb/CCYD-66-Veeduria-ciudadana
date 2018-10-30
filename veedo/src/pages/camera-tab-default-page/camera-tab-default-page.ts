@@ -2,10 +2,10 @@ import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
 @Component({
-  selector: 'page-signup',
-  templateUrl: 'signup.html'
+  selector: 'page-camera-tab-default-page',
+  templateUrl: 'camera-tab-default-page.html'
 })
-export class SignupPage {
+export class CameraTabDefaultPagePage {
 
   constructor(public navCtrl: NavController) {
   }

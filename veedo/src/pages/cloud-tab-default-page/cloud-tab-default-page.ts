@@ -2,10 +2,10 @@ import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
 @Component({
-  selector: 'page-signup',
-  templateUrl: 'signup.html'
+  selector: 'page-cloud-tab-default-page',
+  templateUrl: 'cloud-tab-default-page.html'
 })
-export class SignupPage {
+export class CloudTabDefaultPagePage {
 
   constructor(public navCtrl: NavController) {
   }
